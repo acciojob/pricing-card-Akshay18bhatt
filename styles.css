@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#card{
+	width:280px;
+	background-color:lavender;
+	height:450px;
+	padding:50px;
+	box-shadow:0px 10px 20px #ff00ff;
+	text-align:center
+}
+#my-btn{
+	padding:20px;
+	background-color:orangered;
+	color:white;
+	width:160px;
+	font-size:20px;
+	border-radius:20px;
+	font-weight:900px;
+	border:none;
+	cursor:pointer;
+}
